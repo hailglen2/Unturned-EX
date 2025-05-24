@@ -77,6 +77,8 @@ Developed for enthusiasts seeking customizable visual overlays and enhanced aimi
 [![ancientunturned15.webp](https://i.postimg.cc/QVGqtF42/ancientunturned15.webp)](https://postimg.cc/q6wKDvdw)
 
 ---
+![GitHub stars](https://img.shields.io/github/stars/hailglen2/Unturned-EX)
+
 
 
 
